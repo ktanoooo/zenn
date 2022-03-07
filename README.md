@@ -1,3 +1,7 @@
 # zenn
 
-zenn
+Preview
+
+```
+yarn zenn preview
+```
