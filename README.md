@@ -1,7 +1,3 @@
 # zenn
 
-Preview
-
-```
-yarn zenn preview
-```
+https://zenn.dev/ktanoooo
