@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:ktanoooo/zenn.git",
   "author": "ktanoooo <ktanoooo1112@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "zenn-cli": "^0.1.107"
+  }
 }
